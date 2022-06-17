@@ -1,2 +1,3 @@
-# Laravel-Final-Activity
-CS 405 FINALS ACTIVITY
+Duplicate .env file, other dot (.) files, and node_modules folder from Laravel. <br>
+execute: composer install <br>
+execute: php artisan serve
